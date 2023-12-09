@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SubmissionSatuAndroidFundamental</string>
+    <string name="searchbar_hint">Search by Username</string>
+    <string name="username">Username</string>
+    <string name="type">type : </string>
+    <string name="email">email</string>
+    <string name="cd_iv_photo">Photo User</string>
+    <string name="full_name">Name</string>
+    <string name="followers">Followers</string>
+    <string name="not_available">N/A</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Followings</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Setting</string>
+    <string name="button_favorite">Button favorite</string>
+    <string name="tab_follow">Tab Follow</string>
+</resources>
